@@ -1,13 +1,13 @@
 ---
-title: Activity, Fragment, RecyclerView について、とりあえずメモ
+title: 'Activity, Fragment, RecyclerView について、とりあえずメモ'
 tags:
-  - 'Android'
-  - 'Activity'
-  - 'Fragment'
-  - 'RecyclerView'
+  - Android
+  - Activity
+  - Fragment
+  - RecyclerView
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-02-28T09:37:20+09:00'
+id: 381b3255ea2c8af21f1f
 organization_url_name: null
 slide: false
 ignorePublish: false
