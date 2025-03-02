@@ -1,12 +1,12 @@
 ---
 title: GitHub Fine-grained Personal Access Token を使う
 tags:
-  - 'GitHub'
-  - 'Token'
-  - 'Ubuntu'
+  - GitHub
+  - Ubuntu
+  - token
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-03-03T08:21:01+09:00'
+id: 70980d0d2450b6cb7859
 organization_url_name: null
 slide: false
 ignorePublish: false
