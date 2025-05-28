@@ -7,17 +7,11 @@ tags:
   - Zenn
   - ZennCLI
 private: false
-
 updated_at: ''
-
 id: null
-
 organization_url_name: null
-
 slide: false
-
 ignorePublish: false
-
 ---
 # Zenn, Qiita に GitHub から記事公開する — 模索編
 
