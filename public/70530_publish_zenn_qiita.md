@@ -1,13 +1,13 @@
 ---
 title: 'Zenn, Qiita に GitHub から記事公開する — 実装編'
 tags:
-  - GitHub
   - Qiita
-  - QiitaCLI
+  - GitHub
   - Zenn
   - ZennCLI
+  - QiitaCLI
 private: false
-updated_at: '2025-06-01T19:06:07+09:00'
+updated_at: '2025-06-01T19:21:58+09:00'
 id: 16c16d0264df944af5aa
 organization_url_name: null
 slide: false
