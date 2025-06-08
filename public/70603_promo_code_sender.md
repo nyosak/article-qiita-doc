@@ -1,13 +1,13 @@
 ---
-title: 'GAS で Google groups の新規メンバーに Promo code を自動送信する'
+title: GAS で Google groups の新規メンバーに Promo code を自動送信する
 tags:
-  - GAS
-  - GoogleAppsScript
-  - GoogleGroups
-  - GoogleSheets
   - Android
+  - GoogleAppsScript
+  - GAS
+  - GoogleSheets
+  - GoogleGroups
 private: false
-updated_at: '2025-06-03T19:40:38+09:00'
+updated_at: '2025-06-08T16:46:57+09:00'
 id: 4ee0d740521155141b23
 organization_url_name: null
 slide: false
