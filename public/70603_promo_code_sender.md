@@ -1,11 +1,11 @@
 ---
-title: GAS で Google groups の新規メンバーに Promo code を自動送信する
+title: 'GAS で Google groups の新規メンバーに Promo code を自動送信する'
 tags:
-  - Android
-  - GoogleAppsScript
   - GAS
-  - GoogleSheets
+  - GoogleAppsScript
   - GoogleGroups
+  - GoogleSheets
+  - Android
 private: false
 updated_at: '2025-06-03T19:40:38+09:00'
 id: 4ee0d740521155141b23
@@ -179,7 +179,7 @@ Sheet ごとの固有情報を、 Document Property に保存する。
 
 もし新規メンバー登録で発火するようなトリガーが利用可能なら、話はもっと単純で省エネルギーで動くのだ。だが無いものは追い求めず、素直にタイマーでポーリング監視をする。
 
-Sheet ごとのスクリプトで Apps Script 画面を開き、左側浴びゲーションの時計（⏱ Triggers）を開くと、起動方法を選択できる。次のものを指定して、時計による起動を有効にする。
+Sheet ごとのスクリプトで Apps Script 画面を開き、左側ナビゲーションの時計（⏱ Triggers）を開くと、起動方法を選択できる。次のものを指定して、時計による起動を有効にする。
 
 - 起動する関数名 (executePromoCodeSender)
 - バージョン (Head あるいはデプロイしたバージョン)
