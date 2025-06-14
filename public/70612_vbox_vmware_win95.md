@@ -1,14 +1,14 @@
 ---
-title: 'VirtualBox で Windows 95 を久々に起動する'
+title: VirtualBox で Windows 95 を久々に起動する
 tags:
-  - VirtualBox
-  - Win95
-  - VMware
   - Ubuntu
-  - ShiftJIS
+  - vmware
+  - VirtualBox
+  - Shift_JIS
+  - Win95
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-06-14T17:43:35+09:00'
+id: 3f4de45a5a8b527bc6cd
 organization_url_name: null
 slide: false
 ignorePublish: false
