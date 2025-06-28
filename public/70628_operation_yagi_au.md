@@ -1,14 +1,14 @@
 ---
-title: '八木作戦 — 二射'
+title: 八木作戦 — 二射
 tags:
+  - BAND
+  - telephony
   - RadioWave
   - MobileNetwork
   - YagiAnntena
-  - Telephony
-  - Band
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-06-28T19:21:56+09:00'
+id: 0f6007f08086de1ffbcb
 organization_url_name: null
 slide: false
 ignorePublish: false
