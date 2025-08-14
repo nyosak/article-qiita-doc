@@ -1,14 +1,14 @@
 ---
-title: 'Android で方角センサーを使うときの座標について'
+title: Android で方角センサーを使うときの座標について
 tags:
   - Android
+  - Compass
   - sensor
   - coordinates
   - azimuth
-  - compass
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-08-14T09:20:40+09:00'
+id: d0fafa7da0f94f3ad8a5
 organization_url_name: null
 slide: false
 ignorePublish: false
