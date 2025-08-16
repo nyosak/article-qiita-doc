@@ -1,14 +1,14 @@
 ---
-title: '割り箸と園芸用ビニタイで作る 5G n77/n78 八木アンテナ — 夏休みの工作教室'
+title: 割り箸と園芸用ビニタイで作る 5G n77/n78 八木アンテナ — 夏休みの工作教室
 tags:
   - DIY
-  - Holiday
   - Homework
+  - holiday
   - RadioWave
   - YagiAnntena
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-08-16T18:07:36+09:00'
+id: a9e0b367daa6850d2bc3
 organization_url_name: null
 slide: false
 ignorePublish: false
